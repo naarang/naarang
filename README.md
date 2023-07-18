@@ -1,5 +1,5 @@
 ## 👋 이나경(Kiwi) 👋
-안녕하세요. 프론트엔드 개발자를 목표로 공부하고 있는 이나경입니다.
+안녕하세요. 웹 개발자를 목표로 공부하고 있는 이나경입니다.
 
 ## 💻 Once I've used 💻
 <div style="display:flex; flex-direction:row;">
