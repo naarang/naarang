@@ -25,12 +25,12 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,styledcomponents,svelte,vite,vitest" height="50" />
 </div>
 
-<h4 align="center">⚙️ Backend & Infra</h4>
+<h4 align="center">⚙️ Backend</h4>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,aws" height="50" />
 </div>
 
-<h4 align="center">🧩 Tools & Collaboration</h4>
+<h4 align="center">🧩 Collaboration</h4>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=github,gitlab,figma" height="50" />
 </div>
