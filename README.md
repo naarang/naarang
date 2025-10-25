@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=90&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ed9a34&height=120&section=header" width="100%"/>
 
-<h1 align="center">👋 안녕하세요, 개발자 $\bf{\rm{\color{#ed9a34}이나경}}$입니다👋</h1>
+<h1 align="center">👋 안녕하세요, 개발자 $\bf{\rm{\color{#ed9a34}이나경}}$입니다 👋</h1>
 
 <p align="center">
   언제나 $\bf{\rm{\color{#ed9a34}사용자의\ 입장에서\ 문제를\ 바라보고}}$ 가치있는 경험을 제공하는 것이 저의 개발 철학입니다.
@@ -22,7 +22,7 @@
 ### 💻 Tech Stack
 <h4 align="center">🎨 Frontend</h4>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,styledcomponents,svelte" height="50" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,styledcomponents,svelte,vite,vitest" height="50" />
 </div>
 
 <h4 align="center">⚙️ Backend & Infra</h4>
@@ -37,7 +37,7 @@
 
 <br />
 
-### 📊 My Dev Stats
+### ✨ My Dev Stats
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -45,7 +45,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=naarang&show_icons=true&count_private=true&include_all_commits=true&theme=buefy" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api?username=naarang&show_icons=true&count_private=true&include_all_commits=true" height="150" />
   </a>
   &nbsp;&nbsp;
   <a href="https://solved.ac/skfod21">
@@ -53,6 +53,4 @@
   </a>
 </div>
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ed9a34&height=120&section=footer" width="100%"/>
